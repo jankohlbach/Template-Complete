@@ -1,0 +1,21 @@
+{
+  "name": "template-complete-setup",
+  "version": "1.0.0",
+  "description": "Complete html, scss, js setup",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "stylelint": "^9.6.0",
+    "stylelint-config-recommended-scss": "^3.2.0",
+    "stylelint-declaration-strict-value": "^1.0.4",
+    "stylelint-order": "^1.0.0",
+    "stylelint-scss": "^3.3.2"
+  }
+}

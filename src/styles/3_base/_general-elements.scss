@@ -56,7 +56,8 @@ h6,
   font-size: $font-size-h6;
 }
 
-button {
+button,
+.button {
   background-color: $color-background;
   outline: none;
   cursor: pointer;

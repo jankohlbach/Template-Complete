@@ -13,10 +13,18 @@ html,
 body {
   width: 100%;
   height: 100%;
+  overflow: hidden;
+  overflow-y: auto;
   font-size: $base-font-size;
 }
 
+::selection {
+  background-color: $color-font;
+  color: $color-background;
+}
+
 a {
+  display: inline-block;
   color: $color-font;
   text-decoration: none;
 
@@ -59,6 +67,7 @@ h6,
 button,
 .button {
   background-color: $color-background;
+  appearance: none;
   outline: none;
   cursor: pointer;
 }

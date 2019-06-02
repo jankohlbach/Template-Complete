@@ -14,7 +14,8 @@
         "../../../src/styles/4_layout/_4-layout.scss",
         "../../../src/styles/4_layout/_header.scss",
         "../../../src/styles/4_layout/_navigation.scss",
-        "../../../src/styles/4_layout/_footer.scss"
+        "../../../src/styles/4_layout/_footer.scss",
+        "../../../src/styles/5_elements/_5-elements.scss"
     ],
     "names": [],
     "file": "main.min.css"

@@ -105,7 +105,7 @@
 
 
 
-    "unit-whitelist": ["em", "rem", "px", "%", "vw", "vh", "vmin", "vmax", "deg", "s"],
+    "unit-whitelist": ["em", "rem", "px", "%", "vw", "vh", "fr", "vmin", "vmax", "deg", "s"],
     "value-no-vendor-prefix": true,
     "order/properties-order": [
       "content",
@@ -283,14 +283,14 @@
       "word-break",
       "word-wrap",
       "white-space",
-      
+
 
       "appearance",
       "outline",
       "outline-width",
       "outline-style",
       "outline-color",
-      
+
       "outline-offset",
 
 
